@@ -1,7 +1,7 @@
 import mysql.connector as sql
 
-mycon = sql.connect(host="localhost", user='root', passwd='Ade@2018')
-mycursor = mycon.cursor()
+# mycon = sql.connect(host="localhost", user='root', passwd='enter your database password')
+# mycursor = mycon.cursor()
 # mycursor.execute("CREATE DATABASE restricted_product_db")
 # def register_student():
 #     # mycursor.execute("CREATE TABLE student_table (student_id INT(5), First_name VARCHAR (15), Last_name VARCHAR(15), Address VARCHAR(60), Phone VARCHAR(11), Username VARCHAR(12), Password VARCHAR(12))")
